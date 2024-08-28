@@ -25,3 +25,13 @@ Create container mockups to organize visual elements.
 3.h Fine-tune Tooltips: Customize tooltips for added context and information.
 3.i Implement Filters and Legends: Add and configure filters and legends for interactivity.
 3.j Add Logos and Icons: Include branding elements like logos and icons for a polished finish.
+![HR Dashboard](https://github.com/user-attachments/assets/77576453-5abb-4459-9e65-c3fc96a0c710)
+
+
+
+
+
+![Dashboared with filter options](https://github.com/user-attachments/assets/1c927161-a725-4d0b-98f8-e4b42e03ec05)
+![Income](https://github.com/user-attachments/assets/2890f394-27c9-4f7d-b3b9-ce65347f5fd0)
+![Overview](https://github.com/user-attachments/assets/d72cb10b-0bd2-4a3b-9426-c0d87e0f5c37)
+![Demographic](https://github.com/user-attachments/assets/52a2c2dd-f25a-4661-b02f-f18dcca29c87)
